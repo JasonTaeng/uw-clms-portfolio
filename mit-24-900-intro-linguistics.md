@@ -1,5 +1,8 @@
 # MIT OCW 24.900 — Introduction to Linguistics — Notes
 
+**Source:** MIT OpenCourseWare  
+https://ocw.mit.edu/courses/24-900-introduction-to-linguistics-spring-2022/
+
 ## What this is
 Notes organized around a recurring analysis loop:
 **observe data → propose an analysis → test with counterexamples**.
