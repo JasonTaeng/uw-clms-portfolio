@@ -1,8 +1,3 @@
----
-title: MIT OCW 24.900 — Introduction to Linguistics
-source: MIT OpenCourseWare (non-credit)
----
-
 # MIT OCW 24.900 — Introduction to Linguistics — Notes
 
 ## What this is
