@@ -1,9 +1,4 @@
----
-title: Probability & Statistics for ML
-source: Coursera — DeepLearning.AI
----
-
-# Probability & Statistics for ML — Notes
+# Probability & Statistics for Machine Learning & Data Science — Notes
 
 ## What this is
 A compact set of notes on probability/statistics ideas that frequently appear in ML:
