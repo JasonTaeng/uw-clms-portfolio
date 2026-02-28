@@ -1,5 +1,8 @@
 # Miracles of Human Language — Notes
 
+**Source:** Coursera — Universiteit Leiden  
+https://www.coursera.org/learn/human-language
+
 ## What this is
 A compact concept map of introductory linguistics:
 **sounds → words → sentences → meaning → use**, plus language in the brain and in society.
