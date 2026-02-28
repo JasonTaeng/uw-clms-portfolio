@@ -1,9 +1,3 @@
-
----
-title: Miracles of Human Language
-source: Coursera — Universiteit Leiden
----
-
 # Miracles of Human Language — Notes
 
 ## What this is
