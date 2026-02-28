@@ -1,5 +1,8 @@
 # Probability & Statistics for Machine Learning & Data Science — Notes
 
+**Source:** Coursera — DeepLearning.AI  
+https://www.coursera.org/learn/machine-learning-probability-and-statistics
+
 ## What this is
 A compact set of notes on probability/statistics ideas that frequently appear in ML:
 uncertainty, distributions, estimation, confidence intervals, hypothesis testing, and A/B testing mindset.
